@@ -1,0 +1,8 @@
+artifacts/model.tflite filter=lfs diff=lfs merge=lfs -text
+artifacts/resnet50v2_model.keras filter=lfs diff=lfs merge=lfs -text
+artifacts/resnet50v2_model.pkl filter=lfs diff=lfs merge=lfs -text
+artifacts/resnet50v2.weights.h5 filter=lfs diff=lfs merge=lfs -text
+artifacts/*.h5 filter=lfs diff=lfs merge=lfs -text
+artifacts/*.keras filter=lfs diff=lfs merge=lfs -text
+artifacts/*.pkl filter=lfs diff=lfs merge=lfs -text
+artifacts/*.tflite filter=lfs diff=lfs merge=lfs -text

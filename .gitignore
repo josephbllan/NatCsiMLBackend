@@ -1,0 +1,6 @@
+__pycache__
+env_csi_nat
+.env
+app copy.py
+requirements_src.txt
+testing.ipynb
